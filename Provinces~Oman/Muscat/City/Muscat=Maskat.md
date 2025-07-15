@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Oman/City/Muscat=Maskat|Muscat=Maskat]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Oman/City/Muscat=Maskat.public|Muscat=Maskat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Oman/City/Muscat=Maskat.internal|Muscat=Maskat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Oman/City/Muscat=Maskat.protect|Muscat=Maskat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Oman/City/Muscat=Maskat.private|Muscat=Maskat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Oman/City/Muscat=Maskat.personal|Muscat=Maskat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Oman/City/Muscat=Maskat.secret|Muscat=Maskat.secret]] 
+
+### #is_/same_as :: [Muscat=Maskat](/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat/City/Muscat=Maskat.md) 
+
+### #is_/same_as :: [Muscat=Maskat.public](/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat/City/Muscat=Maskat.public.md) 
+
+### #is_/same_as :: [Muscat=Maskat.internal](/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat/City/Muscat=Maskat.internal.md) 
+
+### #is_/same_as :: [Muscat=Maskat.protect](/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat/City/Muscat=Maskat.protect.md) 
+
+### #is_/same_as :: [Muscat=Maskat.private](/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat/City/Muscat=Maskat.private.md) 
+
+### #is_/same_as :: [Muscat=Maskat.personal](/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat/City/Muscat=Maskat.personal.md) 
+
+### #is_/same_as :: [Muscat=Maskat.secret](/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat/City/Muscat=Maskat.secret.md)
+

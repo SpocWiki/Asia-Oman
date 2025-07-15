@@ -129,10 +129,4 @@ Capital :: [[Oman/Counties/Muscat/City/Muscat=Maskat]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Oman|Oman]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Oman.internal|Oman.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Oman.protect|Oman.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~West/Oman.private|Oman.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Oman.personal|Oman.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Oman.secret|Oman.secret]] 
+

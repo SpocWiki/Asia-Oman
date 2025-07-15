@@ -40,11 +40,18 @@ markerFolder: ./Musandam/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam|Musandam]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.public|Musandam.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.internal|Musandam.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.protect|Musandam.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.private|Musandam.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.personal|Musandam.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Musandam.secret|Musandam.secret]] 
+
+### #is_/same_as :: [Musandam](/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.md) 
+
+### #is_/same_as :: [Musandam.public](/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.public.md) 
+
+### #is_/same_as :: [Musandam.internal](/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.internal.md) 
+
+### #is_/same_as :: [Musandam.protect](/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.protect.md) 
+
+### #is_/same_as :: [Musandam.private](/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.private.md) 
+
+### #is_/same_as :: [Musandam.personal](/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.personal.md) 
+
+### #is_/same_as :: [Musandam.secret](/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.secret.md)
 

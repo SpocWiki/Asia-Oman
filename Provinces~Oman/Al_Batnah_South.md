@@ -40,11 +40,18 @@ markerFolder: ./Al_Batnah_South/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_South|Al_Batnah_South]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_South.public|Al_Batnah_South.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_South.internal|Al_Batnah_South.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_South.protect|Al_Batnah_South.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_South.private|Al_Batnah_South.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_South.personal|Al_Batnah_South.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Al_Batnah_South.secret|Al_Batnah_South.secret]] 
+
+### #is_/same_as :: [Al_Batnah_South](/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Batnah_South.md) 
+
+### #is_/same_as :: [Al_Batnah_South.public](/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Batnah_South.public.md) 
+
+### #is_/same_as :: [Al_Batnah_South.internal](/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Batnah_South.internal.md) 
+
+### #is_/same_as :: [Al_Batnah_South.protect](/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Batnah_South.protect.md) 
+
+### #is_/same_as :: [Al_Batnah_South.private](/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Batnah_South.private.md) 
+
+### #is_/same_as :: [Al_Batnah_South.personal](/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Batnah_South.personal.md) 
+
+### #is_/same_as :: [Al_Batnah_South.secret](/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Batnah_South.secret.md)
 

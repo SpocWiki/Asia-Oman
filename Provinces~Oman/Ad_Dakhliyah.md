@@ -40,11 +40,18 @@ markerFolder: ./Ad_Dakhliyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah|Ad_Dakhliyah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.public|Ad_Dakhliyah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.internal|Ad_Dakhliyah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.protect|Ad_Dakhliyah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.private|Ad_Dakhliyah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.personal|Ad_Dakhliyah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Oman/Counties/Ad_Dakhliyah.secret|Ad_Dakhliyah.secret]] 
+
+### #is_/same_as :: [Ad_Dakhliyah](/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ad_Dakhliyah.md) 
+
+### #is_/same_as :: [Ad_Dakhliyah.public](/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ad_Dakhliyah.public.md) 
+
+### #is_/same_as :: [Ad_Dakhliyah.internal](/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ad_Dakhliyah.internal.md) 
+
+### #is_/same_as :: [Ad_Dakhliyah.protect](/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ad_Dakhliyah.protect.md) 
+
+### #is_/same_as :: [Ad_Dakhliyah.private](/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ad_Dakhliyah.private.md) 
+
+### #is_/same_as :: [Ad_Dakhliyah.personal](/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ad_Dakhliyah.personal.md) 
+
+### #is_/same_as :: [Ad_Dakhliyah.secret](/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ad_Dakhliyah.secret.md)
 
