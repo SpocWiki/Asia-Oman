@@ -40,17 +40,17 @@ markerFolder: ./Ash_Sharqiyah_North/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ash_Sharqiyah_North](/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North|Ash_Sharqiyah_North]] 
 
-### #is_/same_as :: [Ash_Sharqiyah_North.public](/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North.public|Ash_Sharqiyah_North.public]] 
 
-### #is_/same_as :: [Ash_Sharqiyah_North.internal](/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North.internal|Ash_Sharqiyah_North.internal]] 
 
-### #is_/same_as :: [Ash_Sharqiyah_North.protect](/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North.protect|Ash_Sharqiyah_North.protect]] 
 
-### #is_/same_as :: [Ash_Sharqiyah_North.private](/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North.private|Ash_Sharqiyah_North.private]] 
 
-### #is_/same_as :: [Ash_Sharqiyah_North.personal](/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North.personal|Ash_Sharqiyah_North.personal]] 
 
-### #is_/same_as :: [Ash_Sharqiyah_North.secret](/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Ash_Sharqiyah_North.secret|Ash_Sharqiyah_North.secret]] 
 

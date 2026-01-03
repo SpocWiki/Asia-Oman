@@ -62,17 +62,17 @@ markerFile: [[Muscat]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Muscat](/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat|Muscat]] 
 
-### #is_/same_as :: [Muscat.public](/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat.public|Muscat.public]] 
 
-### #is_/same_as :: [Muscat.internal](/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat.internal|Muscat.internal]] 
 
-### #is_/same_as :: [Muscat.protect](/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat.protect|Muscat.protect]] 
 
-### #is_/same_as :: [Muscat.private](/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat.private|Muscat.private]] 
 
-### #is_/same_as :: [Muscat.personal](/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat.personal|Muscat.personal]] 
 
-### #is_/same_as :: [Muscat.secret](/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Muscat.secret|Muscat.secret]] 
 

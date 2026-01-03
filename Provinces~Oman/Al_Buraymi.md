@@ -40,17 +40,17 @@ markerFolder: ./Al_Buraymi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Buraymi](/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi|Al_Buraymi]] 
 
-### #is_/same_as :: [Al_Buraymi.public](/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi.public|Al_Buraymi.public]] 
 
-### #is_/same_as :: [Al_Buraymi.internal](/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi.internal|Al_Buraymi.internal]] 
 
-### #is_/same_as :: [Al_Buraymi.protect](/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi.protect|Al_Buraymi.protect]] 
 
-### #is_/same_as :: [Al_Buraymi.private](/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi.private|Al_Buraymi.private]] 
 
-### #is_/same_as :: [Al_Buraymi.personal](/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi.personal|Al_Buraymi.personal]] 
 
-### #is_/same_as :: [Al_Buraymi.secret](/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Buraymi.secret|Al_Buraymi.secret]] 
 

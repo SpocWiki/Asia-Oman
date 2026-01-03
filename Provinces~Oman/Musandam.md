@@ -40,17 +40,17 @@ markerFolder: ./Musandam/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Musandam](/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam|Musandam]] 
 
-### #is_/same_as :: [Musandam.public](/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.public|Musandam.public]] 
 
-### #is_/same_as :: [Musandam.internal](/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.internal|Musandam.internal]] 
 
-### #is_/same_as :: [Musandam.protect](/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.protect|Musandam.protect]] 
 
-### #is_/same_as :: [Musandam.private](/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.private|Musandam.private]] 
 
-### #is_/same_as :: [Musandam.personal](/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.personal|Musandam.personal]] 
 
-### #is_/same_as :: [Musandam.secret](/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Musandam.secret|Musandam.secret]] 
 

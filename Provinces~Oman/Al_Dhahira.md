@@ -40,17 +40,17 @@ markerFolder: ./Al_Dhahira/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Dhahira](/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira|Al_Dhahira]] 
 
-### #is_/same_as :: [Al_Dhahira.public](/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira.public|Al_Dhahira.public]] 
 
-### #is_/same_as :: [Al_Dhahira.internal](/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira.internal|Al_Dhahira.internal]] 
 
-### #is_/same_as :: [Al_Dhahira.protect](/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira.protect|Al_Dhahira.protect]] 
 
-### #is_/same_as :: [Al_Dhahira.private](/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira.private|Al_Dhahira.private]] 
 
-### #is_/same_as :: [Al_Dhahira.personal](/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira.personal|Al_Dhahira.personal]] 
 
-### #is_/same_as :: [Al_Dhahira.secret](/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Oman/Provinces~Oman/Al_Dhahira.secret|Al_Dhahira.secret]] 
 
