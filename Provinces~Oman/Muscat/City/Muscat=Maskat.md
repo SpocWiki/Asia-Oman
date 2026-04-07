@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::23.48] 
 [name::Muscat=Maskat] 
 State ::  
-Country :: [[../../../../Oman]]  
+Country :: [[../../../../Oman|Oman]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

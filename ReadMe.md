@@ -119,7 +119,7 @@ markerFolder: ./
 [Area-Land::212460] 
 Continent :: [[Asia]]  
 [VehicleCode::OM] 
-Capital :: [[Oman/Counties/Muscat/City/Muscat=Maskat]]  
+Capital :: [[Oman/Counties/Muscat/City/Muscat=Maskat|Muscat=Maskat]]  
 ![[Coat_of_arms_of_Oman.svg|350]] 
 ![[Anthem-Oman.mp3]]
 ![[Oman/Flag_of_Oman.svg|350]]  
