@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Al_Wusta/
 markerFolder: ./Al_Wusta/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

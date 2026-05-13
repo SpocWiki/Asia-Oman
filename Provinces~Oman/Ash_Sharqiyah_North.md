@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ash_Sharqiyah_North/
 markerFolder: ./Ash_Sharqiyah_North/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

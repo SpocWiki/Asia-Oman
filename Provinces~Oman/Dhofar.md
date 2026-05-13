@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Dhofar/
 markerFolder: ./Dhofar/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
