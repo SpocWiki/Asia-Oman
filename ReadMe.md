@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 阿曼苏丹国
 dv_UNTERM_French_Formal: le Sultanat d'Oman
 dv_UNTERM_Russian: Оман
 dv_UNTERM_Russian_Formal: Султанат Оман
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Oman]]'
 dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
@@ -51,7 +51,7 @@ dv_ISO2: OM
 dv_ISO3: OMN
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Oman,842|WD~Oman,842]]'
+  - '[[../../../../../WikiData/WD~Oman,842|WD~Oman,842]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~West/Oman|Oman]]'
   - '[[/_public/Earth/Continent/Asia/Asia~West/Oman.public|Oman.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~West/Oman.internal|Oman.internal]]'
@@ -345,17 +345,17 @@ dv_has_:
 dv_has_name_de: Oman
 dv_Area-Total: 212457
 dv_Area-Land: 212460
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: OM
-dv_Capital: '[[Oman/Counties/Muscat/City/Muscat=Maskat|Muscat=Maskat]]'
+dv_Capital: '[[Counties/Muscat/City/Muscat=Maskat|Muscat=Maskat]]'
 dv_Alcohol-l: 0.9
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 58.55
 dv_has_place_latitude: 23.48
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Oman,842|WD~Oman,842]]'
+- '[[../../../../../WikiData/WD~Oman,842|WD~Oman,842]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~West/Oman|Oman]]'
 - '[[/_public/Earth/Continent/Asia/Asia~West/Oman.public|Oman.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~West/Oman.internal|Oman.internal]]'
@@ -491,7 +491,7 @@ contains_the_administrative_territorial_entity:
 - '[[/_Standards/WikiData/WD~Al_Batinah_North_Governorate,4703564|WD~Al_Batinah_North_Governorate,4703564]]'
 - '[[/_Standards/WikiData/WD~Al_Batinah_South_Governorate,4703565|WD~Al_Batinah_South_Governorate,4703565]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 - '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
@@ -832,7 +832,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Oman/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -857,8 +857,8 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Oman.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Oman.mp3|Anthem-Oman.mp3]]
-![[Oman/Flag_of_Oman.svg|350]]  
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Oman.mp3|Anthem-Oman.mp3]]
+![[Flag_of_Oman.svg|350]]  
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 
@@ -869,7 +869,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ```leaflet
 id: Oman_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
